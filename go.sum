@@ -4,6 +4,8 @@ github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf h1:qet1QNfXsQxTZq
 github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf/go.mod h1:ybxpYRFXyAe+OPACYpWeL0wqObRcbAqCMya13uyzqw0=
 github.com/alexbrainman/odbc v0.0.0-20190102080306-cf37ce290779 h1:njXFG+U50CJ0TVhuUqJIhYhhqEFWjyBV/EWht/khJdI=
 github.com/alexbrainman/odbc v0.0.0-20190102080306-cf37ce290779/go.mod h1:WEQLoRNIjBhywJqaxe0olilzzBDABc5EVeETiprzR00=
+github.com/alexbrainman/odbc v0.0.0-20200426075526-f0492dfa1575 h1:amPgE3QaxNogld1zImkopnrJQkJN51DE7ngVykqVVYE=
+github.com/alexbrainman/odbc v0.0.0-20200426075526-f0492dfa1575/go.mod h1:WEQLoRNIjBhywJqaxe0olilzzBDABc5EVeETiprzR00=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973 h1:xJ4a3vCFaGF/jqvzLMYoU8P317H5OQ+Via4RmuPwCS0=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -23,6 +25,8 @@ github.com/matttproud/golang_protobuf_extensions v1.0.1 h1:4hp9jkHxhMHkqkrB3Ix0j
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=
 github.com/minus5/gofreetds v0.0.0-20190219163700-c92a62efdcd5 h1:Ypd9hRQ3lH7FRw4TRjZ2A9tL5gHQ6jTVM93PSpTsUC0=
 github.com/minus5/gofreetds v0.0.0-20190219163700-c92a62efdcd5/go.mod h1:WvwUDnIBzwSEfXYkuvWQ+mKYt7Ja7I2uI1o5WoAotk4=
+github.com/minus5/gofreetds v0.0.0-20200826115934-6705a38c49ca h1:1LHomGff4nFpzH3xoSt4SLKTXB9QehqkbWGCprtr/6Y=
+github.com/minus5/gofreetds v0.0.0-20200826115934-6705a38c49ca/go.mod h1:WvwUDnIBzwSEfXYkuvWQ+mKYt7Ja7I2uI1o5WoAotk4=
 github.com/mwitkow/go-conntrack v0.0.0-20161129095857-cc309e4a2223/go.mod h1:qRWi+5nqEBWmkhHvq77mSJWrCKwh8bxhgT7d/eI7P4U=
 github.com/ncabatoff/dbms_exporter v0.0.1 h1:5ok3mtkV7G/5+wFYFdebfumaczOShTpwt2RLssmU+kE=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
